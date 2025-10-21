@@ -3,6 +3,7 @@ import Home from './pages/Home.jsx';
 import {BrowserRouter, Route, Routes} from 'react-router-dom';
 import SearchAppBar from './components/Appbar.jsx';
 import Tour from './pages/Tour.jsx';
+import * as React from 'react';
 
 function App() {
   
